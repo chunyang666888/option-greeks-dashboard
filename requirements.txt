@@ -1,0 +1,5 @@
+# Core: numpy only.
+numpy>=1.22
+# Optional: only for the interactive HTML dashboard.
+plotly>=5.0
+pytest>=7.0
